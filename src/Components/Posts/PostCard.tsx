@@ -1,7 +1,5 @@
 
 
-import React from 'react'
-
 interface postcardProps{
     title:string;
     description:string;
